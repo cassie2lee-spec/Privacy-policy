@@ -1,12 +1,24 @@
-# Privacy-policy
-
 Privacy Policy for Warehouse Tools
-Last updated: 1 October 2026
 
-Warehouse Tools does not collect, store, or transmit any personal data.
-The extension only stores lightweight local preferences (such as toggle states)
-using browser storage. No information is sent to external servers.
+Last Updated: October 2026
 
-The extension does not use cookies, analytics, or third‑party services.
-No browsing history or personal identifiable information is accessed or retained.
-If you have any questions, contact:  servicedeskoracle@gmail.com
+Warehouse Tools is a browser extension designed to improve warehouse workflows and productivity.
+
+Data Collection
+The extension may access information displayed on supported warehouse websites in order to provide its functionality. This information is processed only as required for the extension's features.
+
+Storage
+The extension may store user preferences, settings, and configuration data locally within the user's browser.
+
+Data Sharing
+Warehouse Tools does not sell, rent, or transfer user data to third parties.
+
+Data Usage
+Data is used solely to provide the functionality described by the extension and is not used for advertising or profiling.
+
+Security
+Reasonable measures are taken to protect information stored by the extension.
+
+Contact
+For questions regarding this Privacy Policy, contact:
+your-email@example.com
